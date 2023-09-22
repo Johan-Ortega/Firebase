@@ -1,0 +1,27 @@
+#inputFile{
+    display: none;
+}
+
+.labelInputFile{
+    position: absolute;
+    width: 4rem;
+    height: 4rem;
+    background-color: lightgray;
+    border-radius: 100%;
+    padding: 1rem;
+    box-shadow: 0 0 10px -1px rgb(73, 73, 73);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.labelInputFile img{
+    width: 4rem;
+    height: 4rem;
+}
+
+.labelInputFile:active{
+    
+}
